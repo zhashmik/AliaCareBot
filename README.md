@@ -1,2 +1,2 @@
-# AliaCareBot
+# Chatbot-Alia
 A chatbot to simulate therapeutic conversations using Natural Language Processing (NLP). It incorporates pronoun mapping, memory storage, and text evaluation to facilitate personalized and context-aware dialogues.It uses NLP to understand user input, provide empathetic responses, and offer emotional support. ALIA can personalize interactions by remembering the user's name and referencing past conversations. ALIA responds to various emotional states and life situations, guiding users through a reflective dialogue. The program includes input validation and allows users to exit the conversation at any time.
